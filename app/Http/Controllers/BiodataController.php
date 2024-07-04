@@ -10,6 +10,9 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Auth;
 
+
+
+
 class BiodataController extends Controller
 {
     protected function edit($id = null)
